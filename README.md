@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Isaacwrite
-- 👀 I’m interested in video editing and creation 
-- 🌱 I’m currently learning video creation
+- 👀 I’m interested in video editing/creation and full-stack development 
+- 🌱 I’m currently learning full-stack development 
 - 💞️ I’m looking to collaborate on any project related to that
 - 📫 How to reach me 08147050299
 
